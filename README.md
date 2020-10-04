@@ -4,8 +4,8 @@ Multi-modal sensor fusion using symmetric skip autoencoder via an Adversarial Re
 To test on images download Visual images folder, Infrared Images folder and pretrained weights.
 Change locations wherever mentioned and run the test Notebook. (The test notebook can also be run on Colab)
 
-Training was done via Azure on  N-series  virtual  machine, equipped with NVIDIA Tesla K80 GPU with NVIDIA GRID2.0 technology.
-RAM => 56 GB RAM and localmemory => 340 GB temporary (Microsoft Azure) platform in python. The train Noteook used can also be downloaded.
+Training was done via Azure, N-series  virtual  machine (NVIDIA Tesla K80 GPU)
+RAM => 56 GB, local memory => 340 GB (Microsoft Azure). The train Noteook used can also be downloaded.
 
 
 
