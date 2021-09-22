@@ -1,4 +1,4 @@
-# Image-Fusion
+# Multimodal Sensor Fusion Using Symmetric Skip Autoencoder Via an Adversarial Regulariser
 Multi-modal sensor fusion using symmetric skip autoencoder via an Adversarial Regulariser
 
 To test on images download Visual images folder, Infrared Images folder and pretrained weights.
